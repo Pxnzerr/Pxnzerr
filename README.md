@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Arthur Clark Francissco! 
 
-<!--
-**Pxnzerr/Pxnzerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323+Code&pause=1000&color=DC143C&center=true&vCenter=true&width=435&lines=Estudante+na+Tecnologia!;="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim
+* 🎓 Estudante na **Faculdade Cotemig**.
+* 💻 Desenvolvendo projetos e soluções utilizando **C#,PHP e MySQL**.
+* 📚 Atualmente aprofundando conhecimentos em Fundamentos de TI e Análise de Dados.
+* 🎯 Em busca de oportunidades de estágio em tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tecnologias e Ferramentas
+<div align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  
+  <br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
