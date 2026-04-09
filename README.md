@@ -1,7 +1,9 @@
 # Olá, eu sou o Arthur Clark Francissco! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323+Code&pause=1000&color=DC143C&center=true&vCenter=true&width=435&lines=Estudante+da+Tecnologia!;"Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=DC143C&center=true&vCenter=true&width=400&lines=Estudante+de+Tecnologia!" alt="Typing SVG" />
+  </a>
 </div>
 
 ## 👨‍💻 Sobre mim
