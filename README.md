@@ -7,7 +7,6 @@
 </div>
 
 ## 👨‍💻 Sobre mim
-* 🎓 Estudante na **Faculdade Cotemig**.
 * 💻 Desenvolvendo projetos e soluções utilizando **C#, Java, PHP e MySQL**.
 * 📚 Atualmente aprofundando conhecimentos em Fundamentos de TI e Análise de Dados.
 * 🎯 Em busca de oportunidades de estágio em tecnologia.
