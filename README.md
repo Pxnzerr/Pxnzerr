@@ -49,6 +49,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pxnzerr&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="./assets/edelweiss.png" alt="Edelweiss" width="160" />
+</div>
+
+
 
 
 
