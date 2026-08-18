@@ -1,8 +1,9 @@
 # Olá, eu sou o Arthur Clark Francisco! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&weight=700&size=30&pause=1000&color=FF0033&center=true&vCenter=true&width=500&lines=Estudante+de+Tecnologia!" alt="Estudante de Tecnologia!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF0033&center=true&vCenter=true&width=500&lines=%F0%9D%95%B0%F0%9D%96%98%F0%9D%96%99%F0%9D%96%9A%F0%9D%96%89%F0%9D%96%86%F0%9D%96%93%F0%9D%96%99%F0%9D%96%8A+%F0%9D%96%89%F0%9D%96%8A+%F0%9D%95%BF%F0%9D%96%8A%F0%9D%96%88%F0%9D%96%93%F0%9D%96%94%F0%9D%96%91%F0%9D%96%94%F0%9D%96%8C%F0%9D%96%8E%F0%9D%96%86" alt="𝕰𝖘𝖙𝖚𝖉𝖆𝖓𝖙𝖊 𝖉𝖊 𝕿𝖊𝖈𝖓𝖔𝖑𝖔𝖌𝖎𝖆" />
 </div>
+
 
 
 ## 👨‍💻 Sobre mim
