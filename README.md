@@ -1,16 +1,13 @@
-# Olá, eu sou o Arthur Clark Francissco! 
+# Olá, eu sou o Arthur Clark Francisco! 👋
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=DC143C&center=true&vCenter=true&width=400&lines=Estudante+de+Tecnologia!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DC143C&center=true&vCenter=true&width=450&lines=Estudante+de+Tecnologia!;Desenvolvedor+em+Formação!" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 Sobre mim
-* 💻 Desenvolvendo projetos e soluções utilizando **Python, C#, Java, PHP e MySQL**.
-* 📚 Atualmente aprofundando conhecimentos em Fundamentos de TI e Análise de Dados.
-* 🎯 Em busca de oportunidades de estágio em tecnologia.
-
+- 💻 Desenvolvendo projetos e soluções utilizando **Python, C#, Java, PHP e MySQL**.
+- 📚 Atualmente aprofundando conhecimentos em Fundamentos de TI e Análise de Dados.
+- 🎯 Em busca de oportunidades de estágio em tecnologia.
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -38,10 +35,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pxnzerr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pxnzerr&layout=compact&langs_count=8&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pxnzerr&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pxnzerr&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pxnzerr&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
+
 
