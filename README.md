@@ -42,4 +42,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Pxnzerr&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
+- **Estatísticas Gerais**: Exibe commits (públicos e privados), pull requests, issues e pontuação/rank com o tema radical.
+- **Linguagens mais utilizadas (Top Languages)**: Gráfico compacto com as principais linguagens dos seus projetos.
+- **GitHub Streak Stats**: Mostra sua sequência de contribuições e dias consecutivos ativos.
+
+
 
