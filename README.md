@@ -35,16 +35,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pxnzerr&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Pxnzerr&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pxnzerr&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Pxnzerr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pxnzerr&layout=compact&langs_count=8&theme=radical" alt="Top Langs" />
 </div>
 
-- **Estatísticas Gerais**: Exibe commits (públicos e privados), pull requests, issues e pontuação/rank com o tema radical.
-- **Linguagens mais utilizadas (Top Languages)**: Gráfico compacto com as principais linguagens dos seus projetos.
-- **GitHub Streak Stats**: Mostra sua sequência de contribuições e dias consecutivos ativos.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pxnzerr&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</div>
+
 
 
 
