@@ -1,8 +1,9 @@
 # Olá, eu sou o Arthur Clark Francisco! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DC143C&center=true&vCenter=true&width=450&lines=Estudante+de+Tecnologia!;Desenvolvedor+em+Formação!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&weight=700&size=30&pause=1000&color=FF0033&center=true&vCenter=true&width=500&lines=Estudante+de+Tecnologia!" alt="Estudante de Tecnologia!" />
 </div>
+
 
 ## 👨‍💻 Sobre mim
 - 💻 Desenvolvendo projetos e soluções utilizando **Python, C#, Java, PHP e MySQL**.
