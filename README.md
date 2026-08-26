@@ -7,7 +7,7 @@
 
 
 ## 👨‍💻 Sobre mim
-- 💻 Desenvolvendo projetos e soluções utilizando **Python, C#, Java, PHP e MySQL**.
+- 💻 Desenvolvendo projetos e soluções utilizando **C++, Python, C#, Java, PHP, Blade e MySQL**.
 - 📚 Atualmente aprofundando conhecimentos em Fundamentos de TI e Análise de Dados.
 - 🎯 Em busca de oportunidades de estágio em tecnologia.
 
@@ -15,6 +15,7 @@
 
 **Linguagens**
 <div align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -32,6 +33,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
 </div>
 
 ## 📊 GitHub Stats
